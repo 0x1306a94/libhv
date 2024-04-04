@@ -70,3 +70,5 @@ Release
 CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
+
+!android_system_export_include/hv/hconfig.h
